@@ -1,8 +1,10 @@
-###  :man_technologist:  [itxshakil](https://wangningkai.github.io)
+###  :man_technologist:  [itxshakil](https://itxshakil.github.io)
+[![Twitter Badge](https://img.shields.io/badge/-itxshakil-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/itxshakil)](https://twitter.com/itxshakil)  [![Linkedin Badge](https://img.shields.io/badge/-itxshakil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itxshakil//)](https://www.linkedin.com/in/itxshakil/) [![Gmail Badge](https://img.shields.io/badge/-itxshakil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itxshakil@gmail.com)](mailto:itxshakil@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👋 Hi, I'm Shakil Alam,a passionate self-taught backend developer from India 🚀. 
 
-[![WangNingkai's github stats](https://imwnk-github-stats.vercel.app/api?username=itxshakil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/itxshakil)
+[![itxshakil's github stats](https://imwnk-github-stats.vercel.app/api?username=itxshakil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/itxshakil)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
