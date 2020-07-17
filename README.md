@@ -12,7 +12,7 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** PHP, JavaScript
--  **Hobbies :** Books :books &  Music :headphones:
+-  **Hobbies :** Books :books: &  Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [Shakil Alam](mailto:itxshakil@gmail.com)
 
