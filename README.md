@@ -4,9 +4,8 @@
 
 👋 Hi, I'm Shakil Alam,a passionate self-taught backend developer from India 🚀 who is passionate about making open-source more accessible, creating technology to elevate people, and building community.. 
 
-[![itxshakil's github stats](https://imwnk-github-stats.vercel.app/api?username=itxshakil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)(https://github.com/itxshakil)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+## Stats
+<p><img src="https://github-readme-stats.vercel.app/api?username=itxshakil&show_icons=true&theme=dracula" alt="itxshakil" /></p>
 
 ### About
 
