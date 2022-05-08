@@ -1,6 +1,6 @@
 ###  :man_technologist:  [Shakil Alam](https://shakiltech.com)
 ![](https://komarev.com/ghpvc/?username=itxshakil)
-[![Twitter Badge](https://img.shields.io/badge/-itxshakil-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/itxshakil)](https://twitter.com/itxshakil)  [![Linkedin Badge](https://img.shields.io/badge/-itxshakil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itxshakil//)](https://www.linkedin.com/in/itxshakil/) [![Gmail Badge](https://img.shields.io/badge/-itxshakil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itxshakil@gmail.com)](mailto:itxshakil@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-itxshakil-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/itxshakil)](https://twitter.com/itxshakil) [![Gmail Badge](https://img.shields.io/badge/-itxshakil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itxshakil@gmail.com)](mailto:itxshakil@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👋 Hi, I'm Shakil Alam,a passionate self-taught backend developer from India 🚀 who is passionate about making open-source more accessible, creating technology to elevate people, and building community.. 
