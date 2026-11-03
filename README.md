@@ -1,74 +1,41 @@
-# 👋 Hi, I'm Shakil Alam
+# Hi, I'm Shakil Alam
 
 [![](https://komarev.com/ghpvc/?username=itxshakil&color=blueviolet&style=flat-square)](https://shakiltech.com)
 [![Twitter Badge](https://img.shields.io/badge/-@itxshakil-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/itxshakil)
 [![Gmail Badge](https://img.shields.io/badge/-itxshakil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:itxshakil@gmail.com)
 
-I'm a Full Stack Web Developer specializing in **Laravel (PHP)** with over 4 years of experience crafting scalable, secure, and user-friendly web applications. My expertise lies in PHP, VueJS, and MySQL, and I have hands-on experience with API integrations such as UIDAI, NDSL, and various payment gateways.
+Laravel developer from India. I build hosting, payments and KYC integrations, and publish the parts worth reusing as open-source packages.
 
----
+## Laravel and PHP packages
 
-## 🚀 Featured Projects
+| Package | What it does | |
+| --- | --- | --- |
+| **[aadhaar-offline](https://github.com/itxshakil/aadhaar-offline)** | Read and verify Aadhaar Offline e-KYC ZIPs and Secure QR codes in any PHP app. Checks UIDAI's signature locally against pinned certificates, never needs the full Aadhaar number. | [![Downloads](https://img.shields.io/packagist/dt/itxshakil/aadhaar-offline?style=flat-square)](https://packagist.org/packages/itxshakil/aadhaar-offline) |
+| **[laravel-aadhaar-offline](https://github.com/itxshakil/laravel-aadhaar-offline)** | The Laravel layer for the above: facade, validation rules, Artisan commands, events, an upload form and a test fake. | [![Downloads](https://img.shields.io/packagist/dt/itxshakil/laravel-aadhaar-offline?style=flat-square)](https://packagist.org/packages/itxshakil/laravel-aadhaar-offline) |
+| **[laravel-fast2sms](https://github.com/itxshakil/laravel-fast2sms)** | Fast2SMS for Laravel: SMS, OTP, DLT templates and WhatsApp, with notification channels, delivery webhooks and a test fake. | [![Downloads](https://img.shields.io/packagist/dt/itxshakil/laravel-fast2sms?style=flat-square)](https://packagist.org/packages/itxshakil/laravel-fast2sms) |
+| **[cpanel-whm](https://github.com/itxshakil/cpanel-whm)** | Typed cPanel WHM API 1 and UAPI client for Laravel. Covers almost every documented function, ships a fake for tests and a `whm:doctor` command for connection problems. Runs in production at a Canadian web host. | [![Downloads](https://img.shields.io/packagist/dt/itxshakil/cpanel-whm?style=flat-square)](https://packagist.org/packages/itxshakil/cpanel-whm) |
+| **[laravel-form-shield](https://github.com/itxshakil/laravel-form-shield)** | CAPTCHA-free spam scoring for Laravel forms. Quarantines suspected spam instead of rejecting it, and reports each signal's precision from your own labels. | [![Downloads](https://img.shields.io/packagist/dt/itxshakil/laravel-form-shield?style=flat-square)](https://packagist.org/packages/itxshakil/laravel-form-shield) |
 
-- **[PFX to PEM Converter](https://pfx-to-pem-converter.shakiltech.com/)**  
-  A secure, browser-based tool to convert PFX files to PEM format, ensuring privacy and compatibility with various servers.
+## Free tools
 
-- **[Safe Station](https://www.safe-station.in/)**  
-  Helps users find trusted fuel stations nearby, protecting them from scams and ensuring quality fuel options.
+- **[PFX to PEM Converter](https://pfx-to-pem-converter.shakiltech.com/)**: convert `.pfx` certificates to PEM for your web server.
+- **[Laravel CSP Generator](https://csp-generator.shakiltech.com)**: build a Content Security Policy visually and get a ready-to-paste Laravel middleware. Runs entirely in your browser.
+- **[WhatsApp Backup Viewer](https://whatsapp-backup-viewer.shakiltech.com)**: read and search an exported WhatsApp chat privately, in the browser.
+- **[Ediary](https://ediary.shakiltech.com/)**: a private online diary. Laravel, Vue and Tailwind.
+- **[Movie Guru](https://movie-guru.shakiltech.com/)**: fast, offline-friendly movie and series lookup with ratings from IMDb and more.
 
-- **[Library Management System](https://laralib.shakiltech.com/)**  
-  A comprehensive system with admin and user authentication to manage books, authors, and issue logs, including automatic fine calculations for late returns.
+## Writing
 
-- **[Ediary](https://ediary.shakiltech.com/)**  
-  A secure diary application where users can log and read entries. Built with Laravel, VueJS, and TailwindCSS.
+I write about Laravel, PHP and web development on [blog.shakiltech.com](https://blog.shakiltech.com/). A few posts:
 
-- **[Movie Guru](https://movie-guru.shakiltech.com/)**  
-  A minimalistic PWA providing detailed information about movies, series, and episodes, utilizing the OMDb API.
+- [Your Aadhaar e-KYC integration probably trusts unsigned data](https://blog.shakiltech.com/aadhar-ekyc-package/)
+- [Send SMS in Laravel with Fast2SMS: OTP, DLT and queues](https://blog.shakiltech.com/laravel-fast2sms-tutorial/)
+- [Passwordless OTP login in Laravel, with tests](https://blog.shakiltech.com/passwordless-otp-login-in-laravel/)
+- [How we implemented Content Security Policy in Laravel](https://blog.shakiltech.com/how-we-implemented-content-security-policy-csp-laravel)
+- [Laravel slow query detection](https://blog.shakiltech.com/laravel-slow-query-detection/)
 
-- **[Life Balance Quiz](https://life-balance-quiz.shakiltech.com/)**  
-  An interactive quiz to assess life balance across key areas like joy, health, and relationships, offering personalized insights.
+## Stack
 
----
+Laravel, PHP, Vue, TypeScript, Tailwind CSS, MySQL and PostgreSQL. Integrations with UIDAI, cPanel/WHM, Stripe, PayPal, Name.com and Indian SMS gateways.
 
-## 🛠️ Technical Skills
-
-- **Languages & Frameworks:** PHP, Laravel, VueJS, JavaScript, MySQL  
-- **Tools & Platforms:** Git, RESTful APIs, TailwindCSS, PWA  
-- **Integrations:** UIDAI, NDSL, Payment Gateways  
-- **Other:** API Development, Secure Coding Practices, Responsive Design
-
----
-
-## 📚 Blog
-
-I regularly share insights, tutorials, and tips on web development, Laravel, and more on my [blog](https://blog.shakiltech.com/). Some recent posts include:
-
-- [How to Design Forms That Users Love: A Step-by-Step Guide to Accessibility, Security & UX](https://blog.shakiltech.com/how-to-design-forms-that-users-love/)
-- [How to Configure Virtual Hosts on XAMPP for Laravel on Windows 10](https://blog.shakiltech.com/how-to-configure-virtual-hosts-on-xampp-for-laravel-on-windows-10/)
-- [Git Trailers: Stop Wasting Time on Messy Commits (Your Future Self Will Thank You!)](https://blog.shakiltech.com/git-trailers-stop-wasting-time-on-messy-commits/)
-
----
-
-## 🧠 About Me
-
-- **Learning:** Full Stack Development | Open Source | Clean Architecture  
-- **Hobbies:** Books 📚 & Music 🎧  
-- **Fun Fact:** First solve the problem, then write the code ❤️  
-- **Let's Talk:** [itxshakil@gmail.com](mailto:itxshakil@gmail.com)
-
----
-
-
-## 📫 Let's Connect
-
-- **Website:** [shakiltech.com](https://shakiltech.com)
-- **Blog:** [blog.shakiltech.com](https://blog.shakiltech.com)
-- **GitHub:** [github.com/itxshakil](https://github.com/itxshakil)
-- **LinkedIn:** [linkedin.com/in/itxshakil](https://www.linkedin.com/in/itxshakil/)
-- **Twitter:** [twitter.com/itxshakil](https://twitter.com/itxshakil)
-
-Feel free to reach out if you're interested in collaborating or have any questions!
-
----
-
-*Crafting digital solutions with passion and precision.* ❤️
+Want to work together? Email [itxshakil@gmail.com](mailto:itxshakil@gmail.com).
