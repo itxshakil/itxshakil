@@ -22,7 +22,7 @@ Laravel developer from India. I build hosting, payments and KYC integrations, an
 - **[Laravel CSP Generator](https://csp-generator.shakiltech.com)**: build a Content Security Policy visually and get a ready-to-paste Laravel middleware. Runs entirely in your browser.
 - **[WhatsApp Backup Viewer](https://whatsapp-backup-viewer.shakiltech.com)**: read and search an exported WhatsApp chat privately, in the browser.
 - **[Ediary](https://ediary.shakiltech.com/)**: a private online diary. Laravel, Vue and Tailwind.
-- **[Movie Guru](https://movie-guru.shakiltech.com/)**: fast, offline-friendly movie and series lookup with ratings from IMDb and more.
+- **[Movie Guru](https://movieguru.shakiltech.com/)**: fast, offline-friendly movie and series lookup with ratings from IMDb and more.
 
 ## Writing
 
